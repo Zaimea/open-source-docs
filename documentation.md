@@ -1,0 +1,2 @@
+- ## Menu
+    - [Contributions](/docs/open-source/{{version}}/contributions)
