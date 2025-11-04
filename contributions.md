@@ -27,6 +27,25 @@ Open-source Laravel packages:
 
 Each repository may contain its own detailed instructions, but this guide applies globally.
 
+## 📬 Support Questions
+
+Zaimea and Zaimealabs maintain multiple Laravel packages and internal tools.
+To keep development efficient across all repositories, support questions must follow the unified rules below.
+
+Please use the support channels below:
+
+✅ 1. Discussions (recommended)
+
+For how-to questions, clarifications, or general help, open a GitHub Discussion:
+https://github.com/Zaimea/support/discussions
+
+| Type of Question                   | Where to Ask                                             |
+| ---------------------------------- | -------------------------------------------------------- |
+| "How do I use X?"                  | GitHub Discussions                                       |
+| "This doesn’t work / maybe a bug?" | GitHub Issue (with reproduction)                         |
+| Security vulnerability             | Email: [security@zaimea.com](mailto:security@zaimea.com) |
+| Feature request                    | GitHub Discussions                                       |
+
 ## ✅ How to Contribute
 
 ### 1. Reporting Bugs
