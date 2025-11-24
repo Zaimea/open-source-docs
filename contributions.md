@@ -2,6 +2,9 @@
 title: Contribution Guide
 description: Contribution Guide
 github: https://github.com/zaimea/open-source-docs/edit/main/
+onThisArticle: false
+sidebar: false
+rightbar: false
 ---
 
 # Contribution Guide
